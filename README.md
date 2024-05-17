@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hello 👋, I'm Eamin</h1>
 <h3 align="center">Aspiring Cloud Engineer | DevOps Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149367258.jpg?size=626&ext=jpg&ga=GA1.1.280857235.1715965812&semt=ais_user_b" >
